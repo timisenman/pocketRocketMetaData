@@ -1,0 +1,11 @@
+{
+    "serialNumber": "SN9",
+    "status": "Launch Pad",
+    "nextProcess": "Cryo Test",
+    "launchWindowOpens": null, 
+    "launchDate": null, 
+    "targetAltitudeKm": 13,
+    "location": "Boca Chica",
+    "previousTestResult": "RUSD"
+
+}
